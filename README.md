@@ -21,5 +21,5 @@
 - Demo Web Shop Automation
 
 ### 📫 Contact
-- Linkedin:linkedin.com/in/siddhant-nimsarkar-802544247
+- Linkedin: linkedin.com/in/siddhant-nimsarkar-802544247
 - Email: info.siddhantnimsarkar@gmail.com
